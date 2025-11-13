@@ -19,7 +19,6 @@ The Splunk-SIEM Detection Lab project aimed to establish a controlled environmen
 ### Projects 
 
 1. Analyzing DNS Using Splunk
-2. Analyzing FTP Using Splunk
-3. Analyzing HTTP Using Splunk
-4. Analyzing SSH Using Splunk
-5. Analyzing DHCP Using Splunk
+2. Analyzing HTTP Using Splunk
+3. Analyzing SSH Using Splunk
+4. Analyzing DHCP Using Splunk
